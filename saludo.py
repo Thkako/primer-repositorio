@@ -4,3 +4,4 @@ conteo = 1
 while conteo <= 10:
     print('saludo', conteo)
     conteo += 1
+print('fin del saludo')
